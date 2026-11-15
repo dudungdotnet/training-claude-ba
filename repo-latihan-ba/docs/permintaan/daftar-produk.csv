@@ -1,0 +1,17 @@
+kode,nama,kategori,harga_eceran,harga_grosir,stok,satuan,catatan
+P001,Teh Botol 350 ml,Minuman,5000,4500,48,botol,
+P002,Air Mineral 600 ml,minuman,3500,3000,120,botol,
+P003,Kopi Sachet Susu,Minuman Panas,1500,1300,300,sachet,
+P004,Keripik Singkong Pedas 100 g,Snack,8000,7000,0,bungkus,
+P005,Biskuit Kelapa 250 g,Makanan Ringan,12000,10500,25,bungkus,
+P006,Kacang Atom 150 g,snack,9000,,14,bungkus,harga grosir belum ditentukan
+P007,Garam Dapur 250 g,Bumbu Dapur,3000,2500,60,bungkus,
+P008,Kecap Manis 275 ml,Bumbu,11000,9800,-2,botol,"stok minus, cek gudang"
+P009,Minyak Goreng 1 L,Sembako,18000,17000,35,pouch,
+P010,Gula Pasir 1 kg,Sembako,17500,16500,40,kg,
+P011,Sabun Mandi Batang,Perlengkapan Mandi,4000,3500,72,batang,
+P012,Sampo Sachet,Perlengkapan Mandi,1000,900,0,sachet,
+P013,Pasta Gigi 75 g,perlengkapan mandi,9500,8500,30,tube,
+P014,Mi Instan Goreng,Sembako,3500,3200,240,bungkus,
+P015,Beras Premium 5 kg,Sembako,78000,75000,12,karung,harga naik mulai 1 Desember
+P016,Susu UHT 200 ml,,6000,5500,50,kotak,kategori belum diisi

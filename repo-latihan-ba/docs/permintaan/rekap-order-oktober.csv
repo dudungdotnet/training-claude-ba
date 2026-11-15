@@ -1,0 +1,19 @@
+tanggal,pelanggan,no_wa,jenis,kode_produk,jumlah,status
+2026-10-01,Bu Sari,0812-0000-0101,eceran,P001,6,siap
+2026-10-01,Warung Maju,0812-0000-0102,grosir,P014,40,siap
+2026-10-02,Pak Andi,0812-0000-0103,eceran,P004,3,batal - stok habis
+2026-10-03,Warung Barokah,0812-0000-0104,grosir,P009,20,siap
+2026-10-03,Bu Lina,0812-0000-0105,eceran,P012,10,batal - stok habis
+2026-10-07,Bu Sari,0812-0000-0101,eceran,P008,2,batal - stok habis
+2026-10-08,Warung Maju,0812-0000-0102,grosir,P010,25,siap
+2026-10-08,Warung Maju,0812-0000-0102,grosir,P010,25,siap
+2026-10-12,Pak Budi,0812-0000-0106,eceran,P005,4,siap
+2026-10-14,Warung Barokah,0812-0000-0104,grosir,P002,48,batal - stok habis
+2026-10-15,Bu Lina,0812-0000-0105,eceran,P013,1,siap
+2026-10-18,Pak Andi,0812-0000-0103,eceran,P004,2,batal - stok habis
+2026-10-21,Warung Sejahtera,0812-0000-0107,grosir,P015,5,siap
+2026-10-22,Bu Rina,0812-0000-0108,eceran,P006,2,baru
+2026-10-25,Warung Sejahtera,0812-0000-0107,grosir,P008,12,batal - stok habis
+2026-10-28,Pak Budi,0812-0000-0106,eceran,P003,20,siap
+2026-10-29,Bu Sari,0812-0000-0101,eceran,P012,5,batal - stok habis
+2026-10-31,Warung Barokah,0812-0000-0104,grosir,P014,60,siap
